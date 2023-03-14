@@ -1,0 +1,109 @@
+.text-black {
+	color: #fff !important;
+}
+
+.bg-light {
+	background-color: #202020 !important;
+}
+
+.bg-white {
+	background-color: #282828 !important;
+}
+
+.nitro-card.theme-primary-slim .nitro-card-header {
+	background: repeating-linear-gradient(#206d7d,#206d7d 50%,#195764 0,#195764);
+	border-bottom: 2px solid #195764;
+	box-shadow: none;
+}
+
+.nitro-card.theme-primary-slim .content-area {
+	background-color: #242526;
+}
+
+.layout-grid-item.active:not(.clear-bg) {
+	background-color: #18191a !important;
+}
+
+.layout-grid-item.active {
+	border-color: #000 !important;
+}
+
+.bg-muted {
+	background-color: #3a3b3c !important;
+}
+
+.form-control {
+	color: #fff;
+	background-color: #373636;
+	border: 1px solid #222;
+}
+
+.form-control:focus {
+	color: #fff;
+	background-color: #373636;
+	border-color: #222;
+}
+
+.align-items-center {
+  color: #fff;
+}
+
+.nitro-catalog-navigation-grid-container .nitro-catalog-navigation-section .nitro-catalog-navigation-section {
+  border-left: 2px solid #4f4f4f;
+}
+
+.nitro-card.theme-primary .content-area {
+  background-color: #242526;
+}
+
+.room-preview-container .room-preview-image {
+	background-color: #242526;
+}
+
+.border-muted {
+	border-color: #313131 !important;
+}
+
+.nitro-catalog-navigation-grid-container {
+	border-color: #393939 !important;
+	background-color: #4f4f4f;
+}
+
+.nitro-catalog-navigation-grid-container .layout-grid-item {
+	background-color: #393939;
+}
+
+.nitro-navigator .navigator-grid:not(.two-columns) .navigator-item:nth-child(2n+1) {
+  background-color: #151515;
+}
+
+.form-select {
+	color: #fff;
+	background-color: #1e1e1e;
+	border: 1px solid #333;
+}
+
+.layout-grid-item {
+  background-color: #2d2d2d;
+}
+
+.nitro-card.theme-primary .nitro-card-tabs .nav-item.active {
+	background-color: #242526;
+	border-color: #195764 #195764 #222 !important;
+}
+
+.nitro-card.theme-primary .nitro-card-tabs .nav-item.active::before {
+	background: #242526;
+}
+
+.nitro-card.theme-primary .nitro-card-tabs .nav-item {
+	background-color: #535353;
+}
+
+.nitro-card.theme-primary .nitro-card-header {
+	background: #206d7d;
+}
+
+.nitro-card.theme-primary .nitro-card-tabs {
+	background-color: #195764;
+}
